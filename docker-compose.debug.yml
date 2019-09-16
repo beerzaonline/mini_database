@@ -2,7 +2,7 @@ version: '2.1'
 
 services:
   miniproject:
-    image: miniproject
+    image: mini_project
     build:
       context: .
       dockerfile: Dockerfile
